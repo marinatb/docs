@@ -1,0 +1,8 @@
+img
+{ 
+  background-color: transparent !important;  
+  border:none !important; 
+}
+img[alt=vnet] { width: 40%; }
+img[alt=vnet-embed-simple] { width: 70%; }
+img[alt=user-access] { width: 70%; }

@@ -1,1 +1,3 @@
-site_name: MarinaTB
+site_name: The Marina Network Testbed
+extra_css:
+  - index.css
