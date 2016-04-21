@@ -9,7 +9,15 @@
 ![vnet-embed-detail](img/vnet-embed-detail.png)
 
 ## User Access & Federation
-### User Access
+
+### Web & API Access
 ![user-access](img/user-access.png)
+
 ### Federation
 ![federation](img/federation.png)
+
+### Node Initialization & Access
+![node-init](img/node-init.png)
+
+## Build & Test
+![build-test](img/build-test.png)
