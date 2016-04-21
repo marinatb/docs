@@ -1,5 +1,8 @@
 # Design & Implementation Docs
 
+## Functionality
+![what](img/what.png)
+
 ## Architecture
 ![arch](img/arch.png)
 
