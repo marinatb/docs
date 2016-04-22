@@ -3,7 +3,9 @@ img
   background-color: transparent !important;  
   border:none !important; 
 }
+img[alt=virt-high] { width: 60%; }
 img[alt=vnet] { width: 40%; }
 img[alt=vnet-embed-simple] { width: 70%; }
+img[alt=vnet-embed-detail] { width: 70%; }
 img[alt=user-access] { width: 70%; }
 img[alt=node-init] { width: 95%; }

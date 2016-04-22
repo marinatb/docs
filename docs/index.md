@@ -12,6 +12,13 @@
 ![vnet-embed-simple](img/vnet-embed-simple.png)
 ![vnet-embed-detail](img/vnet-embed-detail.png)
 
+## Design
+### High Level
+![design0](img/design0.png)
+
+## Build & Test
+![build-test](img/build-test.png)
+
 ## User Access & Federation
 
 ### Web & API Access
@@ -23,5 +30,3 @@
 ### Node Initialization & Access
 ![node-init](img/node-init.png)
 
-## Build & Test
-![build-test](img/build-test.png)
